@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'routes/routes.dart';
+import 'package:flutter_template/routes/routes.dart';
 
 class MyApp extends StatelessWidget {
   MyApp({Key? key}) : super(key: key);

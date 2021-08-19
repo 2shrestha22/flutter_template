@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:flutter_template/scr/home/home_page.dart';
+import 'package:flutter_template/features/home/home_page.dart';
 
 @MaterialAutoRouter(
   routes: <AutoRoute>[
