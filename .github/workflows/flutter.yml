@@ -2,7 +2,7 @@ name: Flutter
 on:
   push:
     branches:
-      - release
+      - master
 
 jobs:
   build_apk:
